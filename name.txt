@@ -1,2 +1,2 @@
 hello git, from yash.
-merge conflict master branch
+merge conflict master branch 
